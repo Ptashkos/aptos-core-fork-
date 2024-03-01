@@ -2,7 +2,7 @@
 id: state sync
 title: State Sync
 custom_edit_url: https://github.com/aptos-labs/aptos-core/edit/main/state-sync/README.md
----
+---gf
 
 # State Synchronization (State Sync)
 
